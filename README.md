@@ -1,3 +1,4 @@
+![](abcfoodcompany.png)
 # ABCFoodCompany-Auck
 
 ## Overview
